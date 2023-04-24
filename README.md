@@ -8,3 +8,15 @@ This is a machine learning program that can recognize Nepali and English numeral
 3) Ability to classify numerals from 0 to 9 in both Nepali and English languages.
 4) User-friendly command-line interface for easy usage.
 5) Proper user-interface through the use of Gradio.app but only for Nepali Model.
+
+## Installation
+
+1) You can git clone this repository
+2) Download Devanagiri Character Dataset from Kaggle through this link: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset built by Ashok Kumar. 
+3) Install the required dependencies. This program uses Python and the following libraries:
+TensorFlow
+Keras
+OpenCV
+Numpy
+Matplotlib
+Gradio
