@@ -27,7 +27,7 @@ Gradio
 3) You can then download the image and use it's path or the already made test cases to classify what digit of which language it is.
 4)  To run this program simply run the jupiter notebook or the JunioIS.ipynb file.  
 
-#####
+##### Credit
 
 I have used tensorflow's tutorials and documentations for guidance in this project. The link: https://www.tensorflow.org/tutorials/images/classification was my main inspiration for my project.
 # Contact
