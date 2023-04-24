@@ -11,7 +11,10 @@ This is a machine learning program that can recognize Nepali and English numeral
 
 ## Installation
 
-1) You can git clone this repository
+1) You can git clone this repository by: 
+```Python
+git clone https://github.com/yourusername/nepali-english-numeral-recognition.git
+```
 2) Download Devanagiri Character Dataset from Kaggle through this link: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset built by Ashok Kumar. 
 3) Install the required dependencies. This program uses Python and the following libraries:
 TensorFlow
