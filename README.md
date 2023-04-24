@@ -1,5 +1,5 @@
 # JuniorIS
-# Nepali-English Numeral Recognition
+# Nepali-English Handwritten Text Image Numeral Recognition
 
 This is a machine learning program that can recognize Nepali and English numerals using image classification techniques. It is trained on a dataset of labeled images of Nepali and English numerals. The models have used Nepali numerals from dataset Ashok Kumar's Devanagari Character Dataset which you can find it in Kaggle. The link is: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset. The English Dataset is taken from MNIST.
 ## Features
