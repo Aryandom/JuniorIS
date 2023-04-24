@@ -9,7 +9,7 @@ This is a machine learning program that can recognize Nepali and English numeral
 4) User-friendly command-line interface for easy usage.
 5) Proper user-interface through the use of Gradio.app but only for Nepali Model.
 
-## Installation
+### Installation
 
 1) You can git clone this repository
 2) Download Devanagiri Character Dataset from Kaggle through this link: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset built by Ashok Kumar. 
