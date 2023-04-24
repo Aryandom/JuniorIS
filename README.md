@@ -15,7 +15,7 @@ This is a machine learning program that can recognize Nepali and English numeral
 ```Python
 git clone https://github.com/Aryandom/JuniorIS.git
 ```
-2) Download Devanagiri Character Dataset from Kaggle through this link: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset built by Ashok Kumar. 
+2) Download Devanagiri Character Dataset from Kaggle through this link: https://www.kaggle.com/datasets/ashokpant/devanagari-character-dataset built by Ashok Kumar. I couldn't upload the dataset here because of the large memory of the folder. 
 3) Install the required dependencies. This program uses Python and the following libraries:
 TensorFlow
 Keras
