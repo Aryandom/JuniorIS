@@ -22,7 +22,7 @@ Matplotlib
 Gradio
 
 ## Usage
-1) The main file being use here is JuniorIS (1).ipnyb.
+1) The main file being used here is JuniorIS (1).ipnyb. The recognition.ipnyb and test.ipnyb are initial files where I was testing out functions. 
 1) After downloading the necessary materials, copy path of the nepali numerals' dataset and paste put it in for the value of "data_dir" in block 3. 
 2) I have included a folder in the repository named "Test cases" where i have few images of 28 * 28 to be tested with the program. You can simply copy the image's path and paste it in block 66's "img_path" variable. I created these test images using JSpaint: https://jspaint.app/ If you wish to create your own test cases, scale the dimensions of the image to width: 28 and length: 28 in the "attribute" section found in "Image" in the toolbar. 
 3) You can then download the image and use it's path or the already made test cases to classify what digit of which language it is.
